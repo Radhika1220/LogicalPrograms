@@ -9,7 +9,7 @@ namespace LogicalPrograms
     class PerfectNumber
     {
         /// <summary>
-        /// To check whether the number is perfect  or not
+        /// //P2-To check whether the number is perfect  or not
         /// </summary>
         public static void FindPerfectNumber()
         {

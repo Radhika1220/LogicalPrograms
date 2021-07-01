@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LogicalPrograms
 {
     /// <summary>
-    /// To generate fibonacci series
+    /// P1-To generate fibonacci series
     /// </summary>
     class FibSeries
     {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LogicalPrograms
 {
     /// <summary>
-    /// Reversing a number
+    /// P4-Reversing a number
     /// </summary>
     class ReverseNum
     {

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace LogicalPrograms
 {
+    /// <summary>
+    /// P2-Generate the prime number between range
+    /// </summary>
     class PrimeNum
     {
         public static void FindingPrimeNum()
